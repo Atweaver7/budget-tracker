@@ -1,4 +1,3 @@
-## Progressive Web Applications (PWA): Budget Tracker
 
 ## Progressive Web Applications (PWA): Budget Tracker
 
